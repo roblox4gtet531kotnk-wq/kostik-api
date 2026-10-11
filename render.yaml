@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: kostik-api
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: HF_TOKEN
+        sync: false
