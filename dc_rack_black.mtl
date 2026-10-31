@@ -1,0 +1,85 @@
+# Material library for DC_Rack_Black_Lanberg_42U
+
+newmtl Rack_Black_PowderCoat
+Kd 0.1000 0.1100 0.1250
+Ks 0.3280 0.3280 0.3280
+Ns 101.25
+Pm 0.3200
+Pr 0.5500
+d 1.0000
+illum 2
+
+newmtl Rack_SidePanel_Insert
+Kd 0.0700 0.0750 0.0850
+Ks 0.2920 0.2920 0.2920
+Ns 80.00
+Pm 0.2800
+Pr 0.6000
+d 1.0000
+illum 2
+
+newmtl Vent_Slot_Recess
+Kd 0.0200 0.0200 0.0250
+Ks 0.1300 0.1300 0.1300
+Ns 11.25
+Pm 0.1000
+Pr 0.8500
+d 1.0000
+illum 2
+
+newmtl EIA_White_Mounting_Rail
+Kd 0.8800 0.9000 0.9200
+Ks 0.4450 0.4450 0.4450
+Ns 211.25
+Pm 0.4500
+Pr 0.3500
+d 1.0000
+illum 2
+
+newmtl Cable_Clip_Grey
+Kd 0.3800 0.4000 0.4300
+Ks 0.2380 0.2380 0.2380
+Ns 101.25
+Pm 0.2200
+Pr 0.5500
+d 1.0000
+illum 2
+
+newmtl Lanberg_Logo_White
+Kd 0.9600 0.9700 0.9900
+Ks 0.1300 0.1300 0.1300
+Ns 259.20
+Pm 0.1000
+Pr 0.2800
+Ke 0.2200 0.2200 0.2200
+d 1.0000
+illum 2
+
+newmtl Handle_Highlight_Yellow
+Kd 0.9500 0.8000 0.1000
+Ks 0.2650 0.2650 0.2650
+Ns 259.20
+Pm 0.2500
+Pr 0.2800
+Ke 0.4000 0.3200 0.0200
+d 1.0000
+illum 2
+
+newmtl Lock_Cylinder_Silver
+Kd 0.8400 0.8700 0.9000
+Ks 0.8680 0.8680 0.8680
+Ns 336.20
+Pm 0.9200
+Pr 0.1800
+d 1.0000
+illum 2
+
+newmtl Front_Smoked_Glass
+Kd 0.1200 0.1600 0.2000
+Ks 0.1750 0.1750 0.1750
+Ns 423.20
+Pm 0.1500
+Pr 0.0800
+d 0.2600
+illum 2
+

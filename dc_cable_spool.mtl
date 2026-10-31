@@ -1,0 +1,65 @@
+# Material library for DC_Cable_100m_Spool_And_Connectors
+
+newmtl Spool_Drum_Terracotta
+Kd 0.6800 0.3000 0.1200
+Ks 0.1480 0.1480 0.1480
+Ns 88.20
+Pm 0.1200
+Pr 0.5800
+d 1.0000
+illum 2
+
+newmtl CAT6E_Jacket_Blue
+Kd 0.1200 0.3800 0.8600
+Ks 0.1300 0.1300 0.1300
+Ns 168.20
+Pm 0.1000
+Pr 0.4200
+d 1.0000
+illum 2
+
+newmtl RJ45_Boot_SkyBlue
+Kd 0.1800 0.5800 0.9400
+Ks 0.1120 0.1120 0.1120
+Ns 151.25
+Pm 0.0800
+Pr 0.4500
+d 1.0000
+illum 2
+
+newmtl RJ45_Polycarbonate_Plug
+Kd 0.8500 0.9000 0.9600
+Ks 0.1300 0.1300 0.1300
+Ns 361.25
+Pm 0.1000
+Pr 0.1500
+d 0.6500
+illum 2
+
+newmtl RJ45_Gold_Pins
+Kd 0.9500 0.7800 0.2000
+Ks 0.8950 0.8950 0.8950
+Ns 352.80
+Pm 0.9500
+Pr 0.1600
+d 1.0000
+illum 2
+
+newmtl Fiber_Jacket_Yellow
+Kd 0.9400 0.8000 0.1200
+Ks 0.1300 0.1300 0.1300
+Ns 192.20
+Pm 0.1000
+Pr 0.3800
+d 1.0000
+illum 2
+
+newmtl LC_Duplex_Housing_White
+Kd 0.9000 0.9200 0.9400
+Ks 0.1750 0.1750 0.1750
+Ns 211.25
+Pm 0.1500
+Pr 0.3500
+d 1.0000
+illum 2
+

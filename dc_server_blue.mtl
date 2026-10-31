@@ -1,0 +1,87 @@
+# Material library for DC_Server_Blue_2U
+
+newmtl Server_Blue_Chassis
+Kd 0.0700 0.1400 0.5200
+Ks 0.3550 0.3550 0.3550
+Ns 156.80
+Pm 0.3500
+Pr 0.4400
+d 1.0000
+illum 2
+
+newmtl Server_Dark_Steel
+Kd 0.1000 0.1100 0.1300
+Ks 0.5800 0.5800 0.5800
+Ns 180.00
+Pm 0.6000
+Pr 0.4000
+d 1.0000
+illum 2
+
+newmtl Server_Silver_Grille
+Kd 0.8500 0.8700 0.9100
+Ks 0.8140 0.8140 0.8140
+Ns 288.80
+Pm 0.8600
+Pr 0.2400
+d 1.0000
+illum 2
+
+newmtl OLED_Panel_Black
+Kd 0.0400 0.0500 0.0600
+Ks 0.1300 0.1300 0.1300
+Ns 281.25
+Pm 0.1000
+Pr 0.2500
+d 1.0000
+illum 2
+
+newmtl UI_Accent_Red
+Kd 0.8800 0.1600 0.1600
+Ks 0.1750 0.1750 0.1750
+Ns 211.25
+Pm 0.1500
+Pr 0.3500
+Ke 0.4500 0.0500 0.0500
+d 1.0000
+illum 2
+
+newmtl Power_LED_Green
+Kd 0.1500 0.9600 0.3500
+Ks 0.0400 0.0400 0.0400
+Ns 320.00
+Pm 0.0000
+Pr 0.2000
+Ke 0.1500 0.9200 0.3200
+d 1.0000
+illum 2
+
+newmtl Status_Bar_Yellow
+Kd 0.9800 0.8800 0.1800
+Ks 0.1300 0.1300 0.1300
+Ns 281.25
+Pm 0.1000
+Pr 0.2500
+Ke 0.5500 0.4800 0.0500
+d 1.0000
+illum 2
+
+newmtl Indicator_Blue
+Kd 0.1400 0.3200 0.8500
+Ks 0.2200 0.2200 0.2200
+Ns 211.25
+Pm 0.2000
+Pr 0.3500
+Ke 0.0600 0.1500 0.4500
+d 1.0000
+illum 2
+
+newmtl Network_Port_Shield
+Kd 0.7200 0.7600 0.8000
+Ks 0.8320 0.8320 0.8320
+Ns 304.20
+Pm 0.8800
+Pr 0.2200
+d 1.0000
+illum 2
+

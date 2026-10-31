@@ -1,0 +1,65 @@
+# Material library for DC_SFP_Transceivers_10G_25G
+
+newmtl SFP_DieCast_Nickel
+Kd 0.7200 0.7500 0.8000
+Ks 0.8320 0.8320 0.8320
+Ns 288.80
+Pm 0.8800
+Pr 0.2400
+d 1.0000
+illum 2
+
+newmtl SFP_Spring_Steel
+Kd 0.8600 0.8800 0.9200
+Ks 0.8860 0.8860 0.8860
+Ns 352.80
+Pm 0.9400
+Pr 0.1600
+d 1.0000
+illum 2
+
+newmtl SFP_10G_Yellow_Bezel
+Kd 0.8600 0.7200 0.1400
+Ks 0.2650 0.2650 0.2650
+Ns 211.25
+Pm 0.2500
+Pr 0.3500
+d 1.0000
+illum 2
+
+newmtl SFP_25G_Aqua_Bezel
+Kd 0.1200 0.6800 0.7600
+Ks 0.2650 0.2650 0.2650
+Ns 211.25
+Pm 0.2500
+Pr 0.3500
+d 1.0000
+illum 2
+
+newmtl SFP_Port_Cavity
+Kd 0.0400 0.0400 0.0500
+Ks 0.0850 0.0850 0.0850
+Ns 20.00
+Pm 0.0500
+Pr 0.8000
+d 1.0000
+illum 2
+
+newmtl SFP_Edge_PCB
+Kd 0.0800 0.3800 0.2200
+Ks 0.1750 0.1750 0.1750
+Ns 125.00
+Pm 0.1500
+Pr 0.5000
+d 1.0000
+illum 2
+
+newmtl SFP_Gold_Fingers
+Kd 0.9500 0.7800 0.2000
+Ks 0.9040 0.9040 0.9040
+Ns 361.25
+Pm 0.9600
+Pr 0.1500
+d 1.0000
+illum 2
+

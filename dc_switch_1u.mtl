@@ -1,0 +1,67 @@
+# Material library for DC_Network_Switch_1U
+
+newmtl Switch_Slate_Chassis
+Kd 0.1400 0.1600 0.2000
+Ks 0.4720 0.4720 0.4720
+Ns 168.20
+Pm 0.4800
+Pr 0.4200
+d 1.0000
+illum 2
+
+newmtl Switch_Faceplate_Dark
+Kd 0.0800 0.0900 0.1100
+Ks 0.3550 0.3550 0.3550
+Ns 125.00
+Pm 0.3500
+Pr 0.5000
+d 1.0000
+illum 2
+
+newmtl Switch_Grille_Silver
+Kd 0.8400 0.8600 0.9000
+Ks 0.8320 0.8320 0.8320
+Ns 304.20
+Pm 0.8800
+Pr 0.2200
+d 1.0000
+illum 2
+
+newmtl RJ45_SFP_Cage_Metal
+Kd 0.7000 0.7400 0.7800
+Ks 0.8050 0.8050 0.8050
+Ns 281.25
+Pm 0.8500
+Pr 0.2500
+d 1.0000
+illum 2
+
+newmtl Port_Cavity_Dark
+Kd 0.0300 0.0300 0.0400
+Ks 0.0850 0.0850 0.0850
+Ns 20.00
+Pm 0.0500
+Pr 0.8000
+d 1.0000
+illum 2
+
+newmtl Switch_Label_RedBorder
+Kd 0.8600 0.1800 0.1800
+Ks 0.1750 0.1750 0.1750
+Ns 211.25
+Pm 0.1500
+Pr 0.3500
+Ke 0.4200 0.0500 0.0500
+d 1.0000
+illum 2
+
+newmtl Power_LED_Green
+Kd 0.1500 0.9500 0.3500
+Ks 0.0400 0.0400 0.0400
+Ns 320.00
+Pm 0.0000
+Pr 0.2000
+Ke 0.1500 0.9200 0.3200
+d 1.0000
+illum 2
+
